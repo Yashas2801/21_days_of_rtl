@@ -1,0 +1,68 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.2_1 2021.05, May 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/yash/Desktop/100_days_of_rtl/quick_silocon/day1/run
+T_opt
+!s110 1744111147
+Vf5[m[D2zfolHJ`[[SSBAS1
+04 7 4 work d1_test fast 0
+=1-000ae431a4f1-67f5062b-48605-e609
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work ../sim +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.2_1;73
+R1
+vd1_design
+Z3 !s110 1744111275
+!i10b 1
+!s100 CnCDYL;?l7c9YCHB1hgDV3
+Id2GRFl;`ADFUP2WA=E@Lm3
+R1
+w1744107870
+8../src/d1_design.v
+F../src/d1_design.v
+!i122 2
+L0 1 9
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z6 !s108 1744111275.000000
+!s107 ../src/d1_test.v|../src/d1_design.v|
+Z7 !s90 -work|../sim|../src/d1_design.v|../src/d1_test.v|
+!i113 0
+Z8 o-work ../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vd1_test
+R3
+!i10b 1
+!s100 RUd@>jMeUZ2IKXLWW<7Cl2
+If^H4NCeel]JgHSH[fY8DA1
+R1
+w1744111135
+8../src/d1_test.v
+F../src/d1_test.v
+!i122 2
+L0 1 32
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../src/d1_test.v|../src/d1_design.v|
+R7
+!i113 0
+R8
+R2
